@@ -16,9 +16,13 @@ Displays an FFT spectogram which can be manipulated with the following keybinds:
 * A: decrease width
 * F: toggle view mode (default is FFT, secondary is chunks, it's buggy)
 * Space: pause
-* Arrow keys: ...
 
-# Compilation
+The frequency at which your cursor is located and its amplitude are displayed in the upper left corner.
+
+![Screenshot](https://github.com/user-attachments/assets/35c7edf5-13eb-4521-b663-3fdadf1171e6)
+
+
+# Compiling
 No build system is provided. Link/include these libraries with the build system of your choice:
 * SDL2-2.26.1
 * SDL2_ttf-2.20.1
