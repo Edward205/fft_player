@@ -33,3 +33,4 @@ If someone would like to continue to work on this project or another one, please
 * Lazy Foo's SDL2 tutorials: https://lazyfoo.net/tutorials/SDL/
 * Titillium font designed by Accademia di Belle Arti di Urbino
 * The ARSS for inspiring me to learn more about FFT: https://arss.sourceforge.net/
+* Music included in the release: https://freesound.org/people/graham_makes/sounds/447527/
